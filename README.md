@@ -1,5 +1,5 @@
-# BRACU CSE461: Introduction to Robotics Lab Project
-Project 1: Object Recognition Robot
+# Robotics Lab Projects Using Webots
+Project 1: Virtual Object Recognition Robot
 
 Project 1 Video Link: https://www.youtube.com/watch?v=E78QZ1Ntx1g
 
