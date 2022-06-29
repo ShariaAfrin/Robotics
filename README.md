@@ -1,10 +1,10 @@
 # Robotics Lab Projects Using Webots
 __Project 1:__<br><br>
-Virtual Object Recognition Robot
+__Virtual Object Recognition Robot__
 
-Project 1 Video Link: [Click here](https://www.youtube.com/watch?v=E78QZ1Ntx1g)<br><br>
+Project 1 Video Link: [Click here](https://www.youtube.com/watch?v=E78QZ1Ntx1g)<br><br><br>
 
 __Project 2:__<br><br>
-PID implemented Line Follower Robot
+__PID implemented Line Follower Robot__
 
 Project 2 Video Link: [Click here](https://www.youtube.com/watch?v=50B5NLnoIjE)
