@@ -1,4 +1,4 @@
-# Robotics Lab Projects Using Webots
+# Robotics Lab Projects Using Webots [Group Project]
 __Project 1:__<br><br>
 __Virtual Object Recognition Robot__
 
